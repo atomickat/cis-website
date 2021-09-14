@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Work+Sans:wght@200&display=swap');
+
+/* https://coolors.co/4f000b-001524-ffecd1-71816d-04471c
+4f000b  rosewood
+001524  rich black
+ffecd1  blanched almond
+71816d  xanadu (medium camo green)
+04471c forest green traditional */
+
+:root {
+  --primary-color: ffecd1;
+  --secondary-color: 71816d;
+  --accent1-color: 4f000b;
+  --accent2-color: 001524;
+
+  --heading-font: "Montserrat", Arial, sans-serif;
+  --paragraph-font: "Work Sans", sans-serif, serif;
+}
